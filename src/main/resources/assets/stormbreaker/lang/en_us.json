@@ -1,0 +1,13 @@
+{
+  "item.stormbreaker.stormbreaker": "Stormbreaker",
+  "itemGroup.stormbreaker": "Stormbreaker",
+  "entity.stormbreaker.stormbreaker_projectile": "Stormbreaker",
+  "tooltip.stormbreaker.legendary": "A legendary axe-hammer forged for the gods.",
+  "tooltip.stormbreaker.lightning": "Right-click: Call down lightning.",
+  "tooltip.stormbreaker.throw": "Sneak + Right-click: Throw and recall Stormbreaker.",
+  "tooltip.stormbreaker.thunder": "V: Awakened Thunder Mode.",
+  "tooltip.stormbreaker.bifrost": "B: Cast Bifrost teleport.",
+  "key.category.stormbreaker": "Stormbreaker",
+  "key.stormbreaker.thunder_mode": "Activate Thunder Mode",
+  "key.stormbreaker.bifrost": "Cast Bifrost"
+}

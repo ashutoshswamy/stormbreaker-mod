@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NTE",
+    "SBR",
+    " B "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_axe"
+    },
+    "T": {
+      "item": "minecraft:trident"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "R": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "stormbreaker:stormbreaker"
+  }
+}
