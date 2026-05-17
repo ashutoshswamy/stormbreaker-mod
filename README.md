@@ -103,7 +103,7 @@ Default highlights:
 - Name: `Stormbreaker`
 - Version: `1.0.0`
 - License: `MIT`
-- Authors: `Stormbreaker Team`
+- Authors: `Ashutosh Swamy`
 
 ## Notes
 
